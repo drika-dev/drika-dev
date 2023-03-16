@@ -1,13 +1,13 @@
 
 # 👋 Olá, sou Adriane
-### 👩‍🏫 Programadora, 
-### 👩‍💻 Analista de sistemas, 
-### 👩‍🏫 Professora no curso de Sistemas de Informação e curso de Análise e Desenvolvimento de Sistemas.
+   ### 👩‍🏫 Programadora, 
+   ### 👩‍💻 Analista de sistemas, 
+   ### 👩‍🏫 Professora no curso de Sistemas de Informação e curso de Análise e Desenvolvimento de Sistemas.
 
-# ![joystick](https://user-images.githubusercontent.com/126597972/225704466-98f12be1-67aa-4f0f-b27e-340f7aa85172.png)Viciada em 
-### ![image](https://user-images.githubusercontent.com/126597972/225703491-ac5f39f0-193b-45ed-b27c-3c5012a89b8d.png) The Witcher
-### ![dota-2](https://user-images.githubusercontent.com/126597972/225705049-516b9a85-62e2-4ee3-b893-417cb5e9226a.png) Dota 2
-### ![image](https://user-images.githubusercontent.com/126597972/225704934-53881bc3-2241-4c6b-8d0c-5b4dfcc67023.png) Phasmophobia. 
+# <img width="45" alt="about" src="https://user-images.githubusercontent.com/126597972/225704466-98f12be1-67aa-4f0f-b27e-340f7aa85172.png">Viciada em 
+   ### <img width="30" alt="about" src="https://user-images.githubusercontent.com/126597972/225703491-ac5f39f0-193b-45ed-b27c-3c5012a89b8d.png"> The Witcher
+   ### <img width="30" alt="about" src="https://user-images.githubusercontent.com/126597972/225705049-516b9a85-62e2-4ee3-b893-417cb5e9226a.png"> Dota 2
+   ### <img width="30" alt="about" src="https://user-images.githubusercontent.com/126597972/225704934-53881bc3-2241-4c6b-8d0c-5b4dfcc67023.png"> Phasmophobia. 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
