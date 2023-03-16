@@ -1,5 +1,6 @@
 
-## 👋 Olá, sou Adriane, programadora, analista de sistemas, professora no curso de Sistemas de Informação e viciada em The Witcher, Dota 2 e Phasmophobia. 
+## 👋 Olá, sou Adriane, programadora, analista de sistemas, professora no curso de Sistemas de Informação e curso de Análise e Desenvolvimento de Sistemas. 
+Viciada em The Witcher, Dota 2 e Phasmophobia. 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
