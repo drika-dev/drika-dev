@@ -33,10 +33,10 @@ const Adriane = {
 <code><img height="32" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA"/></code>
 
-![Snake animation](https://github.com/adriane-desenvolvimento/adriane-desenvolvimento/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/drika-dev/drika-dev/blob/output/github-contribution-grid-snake.svg)
 
 <center><div>
-<a href="https://github.com/adriane-desenvolvimento">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriane-desenvolvimento&layout=compact&langs_count=7&theme=dracula">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=adriane-desenvolvimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+<a href="https://github.com/drika-dev">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drika-dev&layout=compact&langs_count=7&theme=dracula">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=drika-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
  </div></center>
