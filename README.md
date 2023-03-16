@@ -1,8 +1,8 @@
 
 # 👋 Olá, sou Adriane
-   ### 👩‍🏫 Programadora, 
-   ### 👩‍💻 Analista de sistemas, 
-   ### 👩‍🏫 Professora no curso de Sistemas de Informação e curso de Análise e Desenvolvimento de Sistemas.
+   ### 👩‍🏫 Programadora 
+   ### 👩‍💻 Analista de sistemas 
+   ### 👩‍🏫 Professora nos cursos de Sistemas de Informação e curso de Análise e Desenvolvimento de Sistemas
 
 # <img width="45" alt="about" src="https://user-images.githubusercontent.com/126597972/225704466-98f12be1-67aa-4f0f-b27e-340f7aa85172.png">Viciada em 
    ### <img width="30" alt="about" src="https://user-images.githubusercontent.com/126597972/225703491-ac5f39f0-193b-45ed-b27c-3c5012a89b8d.png"> The Witcher
@@ -31,6 +31,7 @@ const Adriane = {
 <code><img height="32" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft_SQL_Server"/></code>
 <code><img height="32" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/></code>
+<code><img height="32" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA"/></code>
 
 ![Snake animation](https://github.com/adriane-desenvolvimento/adriane-desenvolvimento/blob/output/github-contribution-grid-snake.svg)
 
