@@ -15,9 +15,9 @@
 
 ```JavaScript
 const Adriane = {
-  nome: "ADRIANE DE SOUZA ALMEIDA",
-  Area: "FULL STACK",
-  Linguagens: ["JAVA", "JavaScript", "TYPESCRIPT"],
+  name: "ADRIANE DE SOUZA ALMEIDA",
+  area: "FULL STACK",
+  language: ["JAVA", "JAVASCRIPT", "TYPESCRIPT"],
 };
 ```
 
