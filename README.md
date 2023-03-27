@@ -21,7 +21,6 @@ const Adriane = {
 };
 ```
 
-----
 
 ## 🚀 Minhas Skills
 <div align="center">
