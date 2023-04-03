@@ -49,7 +49,7 @@ const Adriane = {
 <h4 align="center"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
 </h4>
 <div align="center">
-<a href="http://www.github.com/drika-dev"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=drika-dev&hide=&count_private=true&bg_color=0D1117&theme=tokyonight&hide_border=false&show_icons=true" alt="Drika-dev's GitHub stats"/></a>
-<a href="http://www.github.com/drika-dev"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drika-dev&langs_count=10&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/drika-dev"><img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=drika-dev&hide=&count_private=true&bg_color=0D1117&theme=tokyonight&hide_border=false&show_icons=true" alt="Drika-dev's GitHub stats"/></a>
+<a href="http://www.github.com/drika-dev"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drika-dev&langs_count=10&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a>
 <a href="http://www.github.com/drika-dev"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=drika-dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 </div>
