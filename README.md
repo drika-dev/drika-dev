@@ -1,8 +1,8 @@
 
 # 👋 Olá, sou Adriane
-   ### 👩‍🏫 Programadora 
-   ### 👩‍💻 Analista de sistemas 
-   ### 👩‍🏫 Professora nos cursos de Sistemas de Informação e curso de Análise e Desenvolvimento de Sistemas
+  # 👩‍🏫  👩‍💻  👩‍🏫 
+   
+
 
 # <img width="45" alt="about" src="https://user-images.githubusercontent.com/126597972/225704466-98f12be1-67aa-4f0f-b27e-340f7aa85172.png">Viciada em 
    ### <img width="30" alt="about" src="https://user-images.githubusercontent.com/126597972/225703491-ac5f39f0-193b-45ed-b27c-3c5012a89b8d.png"> The Witcher
