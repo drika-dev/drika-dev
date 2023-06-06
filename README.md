@@ -1,16 +1,17 @@
 
-# 👋 Olá, sou Adriane
-  ### 👩‍💻 Analista de Desenvolvimento de Sistemas
-  ### 👩‍💻 Desenvolvedora Full Stack
+# 👋 Hello!! Welcome to my GitHub profile.
+  ## My name is Adriane and my nickname is Drika!
+  ### 👩‍💻 ❤️ Systems Development Analyst
+  ### 👩‍💻 ❤️ Full Stack Developer
    
 
 
-# <img width="45" alt="about" src="https://user-images.githubusercontent.com/126597972/225704466-98f12be1-67aa-4f0f-b27e-340f7aa85172.png">Viciada em 
+# <img width="45" alt="about" src="https://user-images.githubusercontent.com/126597972/225704466-98f12be1-67aa-4f0f-b27e-340f7aa85172.png"> Games ❤️ 
    ### <img width="30" alt="about" src="https://user-images.githubusercontent.com/126597972/225703491-ac5f39f0-193b-45ed-b27c-3c5012a89b8d.png"> The Witcher
    ### <img width="30" alt="about" src="https://user-images.githubusercontent.com/126597972/225705049-516b9a85-62e2-4ee3-b893-417cb5e9226a.png"> Dota 2
    ### <img width="30" alt="about" src="https://user-images.githubusercontent.com/126597972/225704934-53881bc3-2241-4c6b-8d0c-5b4dfcc67023.png"> Phasmophobia. 
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 <img align="right" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/>
 
@@ -18,11 +19,11 @@
 const Adriane = {
   name: "ADRIANE DE SOUZA ALMEIDA",
   area: "FULL STACK",
-  language: ["JAVA", "JAVASCRIPT", "TYPESCRIPT"],
+  language: ["JAVA", "JAVASCRIPT"],
 };
 ```
 
-## 🚀 Minhas Skills
+## 🚀 Skills
 <div align="center">
   <code><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
   <code><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></code></code>
