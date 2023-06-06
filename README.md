@@ -1,6 +1,7 @@
 
 # 👋 Olá, sou Adriane
-  # 👩‍🏫  👩‍💻  👩‍🏫 
+  # 👩‍💻 Analista de Desenvolvimento de Sistemas
+  # 👩‍💻 Desenvolvedora Full Stack
    
 
 
