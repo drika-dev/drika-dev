@@ -55,3 +55,6 @@ const Adriane = {
 <a href="http://www.github.com/drika-dev"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=drika-dev&langs_count=10&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/></a>
 <a href="http://www.github.com/drika-dev"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=drika-dev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width = "100%"/></a>
 </div>
+<div align="center">
+<img alt="Octa" width="60%" src="https://github.com/drika-dev/drika-dev/assets/126597972/39403682-9568-4b1e-89fc-88451799441b" alt="Drika-dev's GitHub stats"/></div > 
+
