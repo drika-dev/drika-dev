@@ -42,9 +42,7 @@ const Adriane = {
 <br/>
 <br/>
 <br/>
-<div align="center">
-  <a href="http://www.github.com/drika-dev"><img width="100%" src="https://github.com/drika-dev/drika-dev/blob/output/github-contribution-grid-snake.svg"/></a>
-</div > 
+
 <br/>
 <br/>
 <br/> 
