@@ -2,7 +2,6 @@
 # 👋 Hello!! Welcome to my GitHub profile.
   ## My name is Adriane and my nickname is Drika!
   ### 👩‍💻 ❤️ Systems Development Analyst
-  ### 👩‍💻 ❤️ Full Stack Developer
    
 
 
